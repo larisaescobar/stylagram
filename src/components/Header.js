@@ -54,7 +54,7 @@ const NavRight = styled.div`
 
   svg {
     margin-right: 20px;
-    height`: 24px;
+    height: 24px;
   }
 `;
 
